@@ -77,6 +77,9 @@ To:
 productDao.update(id, product); // updates an existing product
 ```
 
+## One Interesting Code
+![2](https://github.com/nabilhussein/EasyShopBackend/assets/55296823/9390190f-91c8-481c-a6b7-5152a0f28149)
+
 
 
 Acknowledgments
