@@ -12,6 +12,11 @@ This project is an online shop with a front-end application already completed. H
 6. Deleting categories as an admin
 7. Searching for products
 
+Running the Project
+-------------------
+
+To run this project, you will need both the frontend and backend components. The frontend code is located in a separate folder within the project. Open the frontend code separately and launch the `index.html` file in a web browser to access the web application.
+
 The project is divided into a few phases, each with specific tasks.
 
 Phase 1
@@ -72,10 +77,7 @@ To:
 productDao.update(id, product); // updates an existing product
 ```
 
-Running the Project
--------------------
 
-To run this project, you will need both the frontend and backend components. The frontend code is located in a separate folder within the project. Open the frontend code separately and launch the `index.html` file in a web browser to access the web application.
 
 Acknowledgments
 ----------------
